@@ -9,17 +9,20 @@
 
 
 ## 🌐Socials
-
 <div align="left"> 
-  <a href=""mailto:lesaacangelobusiness@gmail.com"">
-    <img src="https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=red" />
+  <a href="mailto:lesaacangelobusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="www.linkedin.com/in/angelo-lesaca-231ab3323" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
+
+  <a href="https://www.linkedin.com/in/angelo-lesaca-231ab3323" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://leetcode.com/u/a_lesaca1/" target="_blank">
-     <img src="https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=Leetcode&logoColor=black" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+
+  <a href="https://leetcode.com/a_lesaca1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   </a>
+</div>
+
 
  ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A-lesaca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
