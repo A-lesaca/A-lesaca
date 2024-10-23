@@ -1,4 +1,8 @@
-[![](https://visitcount.itsvg.in/api?id=A-lesaca&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=A-lesaca.A-lesaca" />
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+I'm+Angelo+Lesaca%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 
 ## 🐍 My Contributions 🐍
 ![snake gif](https://github.com/A-lesaca/A-lesaca/blob/output/github-snake-dark.svg)
@@ -41,7 +45,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=A-lesaca&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-lesaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
 
 
 
