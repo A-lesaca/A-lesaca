@@ -11,7 +11,7 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/angelo-lesaca-231ab3323)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=Leetcode&logoColor=black)](https://leetcode.com/u/a_lesaca1/)
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=red)](https://mail.google.com/mail/u/0/lesacaangelobusiness@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=red)]("mailto:lesaacangelobusiness@gmail.com)
 
 
 ## 🏆GitHub Trophies
