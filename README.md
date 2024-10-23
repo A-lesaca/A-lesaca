@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-lesaca" alt="a-lesaca" /></a> </p>
 
+![snake gif](https://github.com/A-lesaca/A-lesaca/blob/output/github-snake-dark.svg)
+
 - 📫 How to reach me **lesacaangelobusiness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
