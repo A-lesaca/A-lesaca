@@ -14,7 +14,7 @@
 
 ## 🌐Socials
 <div align="left"> 
-  <a href="mailto:lesaacangelobusiness@gmail.com">
+  <a href="mailto:lesacaangelobusiness@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 
