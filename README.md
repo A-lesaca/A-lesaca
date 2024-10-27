@@ -41,8 +41,7 @@
 
 
 ## 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=A-lesaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=A-lesaca&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=A-lesaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=A-lesaca&theme=dark&hide_border=false)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
