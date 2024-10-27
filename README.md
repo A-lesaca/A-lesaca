@@ -41,10 +41,16 @@
 
 
 ## 📊GitHub Stats
-<div style="display: flex; justify-content: flex-end;">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-lesaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-lesaca&theme=dark&hide_border=false" />
-</div>
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=A-lesaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-lesaca&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
 
