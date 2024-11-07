@@ -35,7 +35,7 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,vscode,github,notion" />
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,notion,pycharm" />
     <img src="https://skillicons.dev/icons?i=,python,java,mysql," /><br>
 </div>
 
@@ -43,11 +43,11 @@
 ## 📊GitHub Stats
 <table align="right">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=A-lesaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    <td style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=A-lesaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-lesaca&theme=dark&hide_border=false" />
+    <td style="padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-lesaca&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
