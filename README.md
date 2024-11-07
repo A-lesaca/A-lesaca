@@ -35,7 +35,7 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,vscode,github,notion,pycharm" />
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,notion,pycharm," />
     <img src="https://skillicons.dev/icons?i=,python,java,mysql," /><br>
 </div>
 
@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" style="display:block; margin: 0 auto;" />
+</a>
 
