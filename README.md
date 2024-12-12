@@ -40,19 +40,6 @@
 </div>
 
 
-## 📊GitHub Stats
-<table align="right">
-  <tr>
-    <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=A-lesaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-lesaca&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
 
-<a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" style="display:block; margin: 0 auto;" />
-</a>
+
 
