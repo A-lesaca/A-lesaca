@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+I'm+Angelo+Lesaca%F0%9F%91%8B" alt="Typing SVG" /></a>
-
+</h1>
 
 ## 🐍 My Contributions 🐍
 ![snake gif](https://github.com/A-lesaca/A-lesaca/blob/output/github-snake-dark.svg)
@@ -10,7 +10,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## ✍️Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ## 🌐Socials
 <div align="left"> 
@@ -27,18 +26,15 @@
   </a>
 </div>
 
-
- ## 🏆GitHub Trophies
+## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A-lesaca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
- 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,vscode,github,notion,pycharm," />
-    <img src="https://skillicons.dev/icons?i=,python,java,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,notion,pycharm,idea" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql" /><br>
 </div>
-
 
 
 
