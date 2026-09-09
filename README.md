@@ -42,35 +42,8 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/A-lesaca/A-lesaca/output/github-snake-dark.svg" />
 </picture>
 
-</div>
+<img width="380" src="assets/ascii_logo.svg" alt="ASCII logo" />
 
-```
-                 @@@@@@@@@@@@@@@@@
-             @@@@@@@            @@@@@@@
-          @@@@@                      @@@@@
-       @@@@                             @@@@
-      @@@                                 @@@@
-    @@@  @@@                            @@  @@@
-   @@@   @@@@                          @@@    @@@
-  @@     @@@@@                        @@@@     @@
- @@      @@ @@@                      @@  @      @@
- @@      @@  @@@        @@@         @@   @       @@
-@@       @@   @@@     @@@ @@@      @@    @       @@
-@@       @@    @@@   @@@    @@@   @@@    @        @
-@@       @@     @@@@@@        @@@@@@     @        @
-@@       @@      @@@            @@@      @        @
-@@       @@    @@@@@           @@@@@     @       @@
- @       @@   @@@@@@@@@@@@@@@@@@@@@@@@   @       @@
- @@      @@ @@@     @@       @@@     @@@ @      @@@
-  @@     @@@@        @@     @@@        @@@     @@@
-  @@@    @@           @@   @@@           @    @@@
-    @@                 @@ @@@                @@@
-     @@@                @@@@               @@@@
-       @@@               @@              @@@@
-         @@@@                         @@@@@
-           @@@@@@                 @@@@@@
-               @@@@@@@@@@@@@@@@@@@@@@
-                      @@@@@@@@
-```
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:a9b8ff,45:5b6eff,100:0b0a24&height=120&section=footer&reversal=true" alt="footer" />
