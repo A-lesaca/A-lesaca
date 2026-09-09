@@ -16,7 +16,6 @@
 
 </div>
 
-- Open to **Summer 2027 internships and placements** (UK)
 
 ## Languages, Frameworks & Tools
 
