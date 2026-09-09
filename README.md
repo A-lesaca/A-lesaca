@@ -27,19 +27,6 @@
   <img src="https://skillicons.dev/icons?i=github,vscode,pycharm,idea,linux,notion&theme=dark" alt="Tools" />
 </div>
 
-## Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-lesaca&show_icons=true&bg_color=120e33&title_color=a9b8ff&text_color=d6dcf0&icon_color=5b6eff&border_color=2e2a5e" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-lesaca&layout=compact&bg_color=120e33&title_color=a9b8ff&text_color=d6dcf0&border_color=2e2a5e" alt="Top languages" height="170" />
-</div>
-
-## GitHub Trophies
-
-![Angelo's GitHub trophies](https://github-profile-trophy.vercel.app/?username=A-lesaca&theme=nord&no-frame=true&no-bg=true&column=6&row=1&margin-w=6&margin-h=6&rank=-C,-B)
-
-
-
 ##  My Contributions
 
 <picture>
