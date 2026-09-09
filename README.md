@@ -32,16 +32,6 @@
 
 </div>
 
-## LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/a_lesaca1/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/a_lesaca1?theme=dark&font=Baloo%202&ext=heatmap&border=0" alt="LeetCode stats" />
-</a>
-
-</div>
-
 ## My Contributions
 
 <div align="center">
