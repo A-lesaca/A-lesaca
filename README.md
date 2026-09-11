@@ -18,8 +18,9 @@
 ## Languages, Frameworks & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git&theme=dark" alt="Languages" /><br>
-  <img src="https://skillicons.dev/icons?i=github,vscode,pycharm,idea,linux,notion&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=spring,django,flask,react&theme=dark" alt="Frameworks &amp; Libraries" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,mysql&theme=dark" alt="Tools &amp; Platforms" />
 </div>
 
 ## GitHub Stats
