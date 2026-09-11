@@ -16,12 +16,12 @@
 
 
 ## Languages, Frameworks & Tools
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" alt="Languages" /><br>
-  <img src="https://skillicons.dev/icons?i=spring,django,flask,react&theme=dark" alt="Frameworks &amp; Libraries" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,mysql&theme=dark" alt="Tools &amp; Platforms" />
+  <img src="https://skillicons.dev/icons?i=py,java,mysql" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=spring,django,flask,react" alt="Frameworks &amp; Libraries" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws" alt="Tools &amp; Platforms" />
 </div>
+
 
 ## GitHub Stats
 
