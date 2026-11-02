@@ -40,7 +40,3 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/A-lesaca/A-lesaca/output/github-snake-dark.svg" />
 </picture>
 
-<img width="380" src="assets/ascii_logo.svg" alt="ASCII logo" />
-
-</div>
-
