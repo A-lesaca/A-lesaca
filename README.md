@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=white,55:5b6eff,100:a9b8ff&height=200&text=Angelo%20Lesaca&fontSize=54&fontColor=black&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20%C2%B7%20Newcastle%20University&descSize=16&descColor=black&descAlignY=62" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=white,55:5b6eff,100:a9b8ff&height=200&text=Angelo%20Lesaca&fontSize=54&fontColor=black&animation=fadeIn&fontAlignY=42&&descAlignY=62" alt="banner" />
 
 <p>
   <a href="https://www.linkedin.com/in/angelo-lesaca-231ab3323" target="_blank">
